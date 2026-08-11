@@ -25,6 +25,10 @@ Gauge labels and widths can be adjusted in the "Parameters" spreadsheet of the p
 
 **CNC Stock and Tools:** 1/8" (3.175mm) wood stock, 60° V-bit (engraving), 1/32" endmill, 1/16" endmill. See project file for more details.
 
+**Printables:** https://www.printables.com/model/1806006-yarn-gauge
+
+**Thingiverse:** https://www.thingiverse.com/thing:7394002
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
 Sheep SVG from https://www.svgrepo.com/svg/172567/sheep (CC0 License).
